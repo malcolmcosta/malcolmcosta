@@ -1,5 +1,5 @@
 Olá, sou o Malcolm Costa.  
-Estou interessado em cursos de programação novos conhecimentos na áreas de tecnologia.
+Estou interessado em cursos de programação e em novos conhecimentos na áreas de tecnologia.
 Sou uma pessoa sedenta por conhecimentos. 
 
 
