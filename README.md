@@ -1,6 +1,6 @@
-Olá, sou o Malcolm Costa.  
+Olá, sou o Malcolm Costa.d
 Estou interessado em cursos de programação e em novos conhecimentos na áreas de tecnologia.
-Sou uma pessoa sedenta por conhecimentos. 
+Sou uma pessoa sedenta por conhecimentos.
 
 
 <!---
